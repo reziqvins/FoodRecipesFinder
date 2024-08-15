@@ -157,7 +157,7 @@ class AppBar extends HTMLElement {
 </nav>
 <div class="jumbotron">
   <div class="jumbotronBrand">
-    <img class ="jumbotronLogo"src="src/img/baner.png" alt="">
+    <img class ="https://res.cloudinary.com/dap6ohre8/image/upload/v1723693599/iseng/baner_jjgxnd.png" alt="">
   </div>
   <div class="jumbotronText">
     <h1 style=> Confused looking for food recipes?</h1>
